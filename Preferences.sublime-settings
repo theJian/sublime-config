@@ -1,0 +1,15 @@
+{
+	"word_wrap": true,
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Theme - Farzher/Neon.tmTheme",
+	"font_face": "Hack",
+	"font_size": 8,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"theme": "Midnight.sublime-theme"
+}

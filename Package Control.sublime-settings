@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CSS3",
+		"Emmet",
+		"LESS",
+		"Package Control",
+		"Theme - Farzher",
+		"Theme - Midnight",
+		"TypeScript"
+	]
+}
