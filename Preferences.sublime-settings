@@ -1,5 +1,4 @@
 {
-	"word_wrap": true,
 	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/Theme - Farzher/Neon.tmTheme",
 	"font_face": "Hack",
@@ -11,5 +10,6 @@
 		"Vintage"
 	],
 	"show_encoding": true,
-	"theme": "Midnight.sublime-theme"
+	"theme": "Midnight.sublime-theme",
+	"word_wrap": true
 }
