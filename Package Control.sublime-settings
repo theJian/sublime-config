@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -12,7 +13,7 @@
 		"Package Control",
 		"SublimeCodeIntel",
 		"Theme - Farzher",
-		"Theme - Midnight",
+		"Theme - Spacegray",
 		"TypeScript"
 	]
 }

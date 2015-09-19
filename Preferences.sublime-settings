@@ -1,6 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"color_scheme": "Packages/Theme - Farzher/Neon.tmTheme",
+	"enable_tab_scrolling": false,
 	"font_face": "Hack",
 	"font_size": 8,
 	"highlight_line": true,
@@ -10,6 +11,7 @@
 		"Vintage"
 	],
 	"show_encoding": true,
-	"theme": "Midnight.sublime-theme",
+	"theme": "Spacegray.sublime-theme",
+	"typescript_plugin_tsc_version": "1.6.2",
 	"word_wrap": true
 }
