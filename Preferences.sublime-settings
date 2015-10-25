@@ -1,6 +1,6 @@
 {
-	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/Theme - Farzher/Neon.tmTheme",
+	"auto_complete_delay": 150,
+	"color_scheme": "Packages/Color Schemes by carlcalderon/Calydon/Calydon.tmTheme",
 	"enable_tab_scrolling": false,
 	"font_face": "Hack",
 	"font_size": 8,
@@ -12,6 +12,7 @@
 	],
 	"show_encoding": true,
 	"theme": "Spacegray.sublime-theme",
+	"typescript_auto_format": false,
 	"typescript_plugin_tsc_version": "1.6.2",
 	"word_wrap": true
 }
