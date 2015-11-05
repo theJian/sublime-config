@@ -2,11 +2,14 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"BracketHighlighter",
+		"TypeScript"
 	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
 		"BracketHighlighter",
+		"ChannelRepositoryTools",
 		"Color Schemes by carlcalderon",
 		"CSS3",
 		"Emmet",
@@ -14,7 +17,6 @@
 		"Package Control",
 		"SublimeCodeIntel",
 		"Theme - Farzher",
-		"Theme - Spacegray",
 		"TypeScript"
 	]
 }

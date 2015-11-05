@@ -1,6 +1,6 @@
 {
 	"auto_complete_delay": 150,
-	"color_scheme": "Packages/Color Schemes by carlcalderon/Calydon/Calydon.tmTheme",
+	"color_scheme": "Packages/Theme - Farzher/Neon.tmTheme",
 	"enable_tab_scrolling": false,
 	"font_face": "Hack",
 	"font_size": 8,
@@ -8,11 +8,13 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"BracketHighlighter",
+		"TypeScript",
 		"Vintage"
 	],
 	"show_encoding": true,
-	"theme": "Spacegray.sublime-theme",
+	"theme": "Spacezero.sublime-theme",
 	"typescript_auto_format": false,
-	"typescript_plugin_tsc_version": "1.6.2",
+	"typescript_plugin_tsc_version": "1.7.2",
 	"word_wrap": true
 }
